@@ -27,7 +27,7 @@ Clona este repo:
 bash
 Copiar
 Editar
-git clone https://github.com/Sodi0/challenge-amigo-secreto_esp-main.git
+git clone https://github.com/profealons/challenge-amigo-secreto_esp-main.git
 Entra a la carpeta:
 
 bash
